@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aluzy
-- 👀 I’m interested in finding solutions
-- 🌱 I’m currently learning Python, Javascript and C++
+- 👋 Hi, I’m @A_fuzy
+- 👀 I’m interested in generative IA and machine learning
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything which can provide me interesting skills
 - 📫 Send me something to introduce you if you want to collaborate
 
